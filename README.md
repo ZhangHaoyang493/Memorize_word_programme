@@ -1,4 +1,4 @@
-# Memorize_word_programming
+# Memorize_word_programme
 一个背单词的小程序
 + python语言，利用了爬虫
 + 一个背单词的小程序
